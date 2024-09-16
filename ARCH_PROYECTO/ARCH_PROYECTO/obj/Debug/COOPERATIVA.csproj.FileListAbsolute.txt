@@ -1,0 +1,9 @@
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.exe.config
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.exe
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\bin\Debug\COOPERATIVA.pdb
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.csprojResolveAssemblyReference.cache
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.Form1.resources
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.Properties.Resources.resources
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.csproj.GenerateResource.Cache
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.exe
+D:\Programacion1 2022-2\ProyectoArchivos\COOPERATIVA\COOPERATIVA\obj\Debug\COOPERATIVA.pdb
